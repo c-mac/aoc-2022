@@ -2265,6 +2265,5 @@ describe('one', () => {
 
         const one = new One(data);
         expect(one.one()).toBe(67450);
-        console.log(one.two())
     })
 })
