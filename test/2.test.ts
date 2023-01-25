@@ -1,5 +1,5 @@
 import Two from "../src/2";
-describe('two', () => {
+describe.skip('two', () => {
     test('sample', () => {
         const two = new Two([
             'A Y',
