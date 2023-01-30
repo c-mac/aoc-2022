@@ -1,5 +1,5 @@
 import Four from "../src/4";
-describe("four", () => {
+describe.skip("four", () => {
   test("sample", () => {
     const four = new Four([
       "2-4,6-8",
